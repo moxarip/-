@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">EbSynth Studio</string>
+    <string name="studio_tab">الاستوديو</string>
+    <string name="queue_tab">طابور المهام</string>
+    <string name="engine_tab">محرك القنوات</string>
+    <string name="select_video">اختيار فيديو من الجهاز</string>
+    <string name="generate_demo_video">توليد فيديو تجريبي فوري (MP4)</string>
+    <string name="extract_keyframe">استخراج الإطار المفتاحي</string>
+    <string name="save_keyframe_gallery">حفظ الإطار في المعرض</string>
+    <string name="import_styled_keyframe">استيراد رسمة / أنمي</string>
+    <string name="auto_stylize_keyframe">تحويل الإطار لأنمي تلقائياً</string>
+    <string name="start_synthesis">بدء تصنيع الفيديو (EbSynth)</string>
+    <string name="play_preview">تشغيل ومعاينة</string>
+    <string name="share_video">مشاركة</string>
+</resources>

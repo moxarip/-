@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Film frame & PatchMatch grid silhouette -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M30,32C27.79,32 26,33.79 26,36V72C26,74.21 27.79,76 30,76H78C80.21,76 82,74.21 82,72V36C82,33.79 80.21,32 78,32H30ZM34,40H48V52H34V40ZM34,56H48V68H34V56ZM52,68V56H66V68H52Z" />
+    <!-- Stylized synthesis brush / spark overlay -->
+    <path
+        android:fillColor="#FF2E93"
+        android:pathData="M72,26L76.5,37.5L88,42L76.5,46.5L72,58L67.5,46.5L56,42L67.5,37.5L72,26Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,44L68,58L58,68L44,54L54,44Z" />
+</vector>

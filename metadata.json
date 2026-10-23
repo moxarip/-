@@ -1,0 +1,6 @@
+{
+  "name": "EbSynth Studio",
+  "description": "Native Android Example-Based Video Synthesis & Anime Style Transfer Studio powered by PatchMatch NNF, Optical Flow guiding channels, bi-directional blending, and hardware MediaCodec pipeline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
